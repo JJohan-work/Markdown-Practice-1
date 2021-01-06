@@ -17,8 +17,6 @@
 * `git push jj main`
 * `git status`
 
-<br>
-<br>
-**** I cant *believe* the things i learned today
+### I cant *believe* the things i learned today
 
-**** __this text is strong__
+#### __this text is strong__
